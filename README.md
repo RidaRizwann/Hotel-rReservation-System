@@ -45,7 +45,8 @@ This system provides a digital solution that ensures data accuracy, quick access
 | ---------------------------- | -------------------------------------------------------------------- |
 | Rida RizwaN              | Project selection, report writing, algorithms, flowchart preparation |
 | Syeda Nahej Fatima Kazmi| PowerPoint presentation, slide design |
-Future Scope
+
+Future Scope 
 Develop a graphical user interface (GUI).
 Integrate online booking functionality.
 Implement automated billing.
